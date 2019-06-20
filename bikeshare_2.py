@@ -43,7 +43,7 @@ def get_filters():
     print('\nNote: Data is available for the first six months of 2017 only.\n')
 
 
-    # get user input for city (all, chicago, new york city, washington)
+    # get user input for city (all, chicago, new york city or washington)
     while True:
         try:
             city_input = int(input('\nSelect one of more cities by entering a number\n0 - ALL\n1 - Chicago\n2 - New York City\n3 - Washington\n'))

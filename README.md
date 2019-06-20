@@ -7,7 +7,7 @@ Explore US Bikeshare Data
 ### Description
 I have completed this project as one part (the Python part) of the Programming for Data Science Nanodegree at Udacity.
 
-An interactive experience run from the command line. In short: Make some choices to view data and get a look at the statistics).
+An interactive experience run from the command line. In short: Make some choices to view data and get a look into related statistics).
 
 Provides a look into bikeshare data for the cities of Chicago, New York City and Washington.
 
