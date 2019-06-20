@@ -18,4 +18,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-I'd like to thank Udacity and my mentor for all the help!
+I would like to thank Udacity and my mentor for all the help!
