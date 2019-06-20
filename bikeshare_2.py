@@ -328,7 +328,7 @@ def trip_duration_stats(df):
     median_travel_time = df['Trip Duration'].median()
     print("\nMedian travel time: " + seconds_to_sentence(median_travel_time))
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis took %s seconds.." % (time.time() - start_time))
     print('-'*40)
 
 
